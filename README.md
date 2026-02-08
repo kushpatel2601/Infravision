@@ -14,10 +14,10 @@ The system automates the evaluation of Detailed Project Reports (DPRs), ensuring
 * **Interactive Dashboard:** Real-time visualization of project health and assessment metrics.
 
 ## 🛠️ Tech Stack
-* **Frontend:** React.js / Next.js
-* **Backend:** Node.js / Python (Flask/FastAPI)
+* **Frontend:** React.js 
+* **Backend:** Node.js 
 * **AI/ML:** Scikit-learn, TensorFlow/PyTorch, NLTK/Spacy
-* **Database:** MongoDB / PostgreSQL
+* **Database:** MongoDB 
 
 ## 🏆 SIH 2025
 * **Team:** Xplore
