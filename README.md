@@ -20,5 +20,5 @@ The system automates the evaluation of Detailed Project Reports (DPRs), ensuring
 * **Database:** MongoDB / PostgreSQL
 
 ## 🏆 SIH 2025
-* **Team:** Team Xplore
+* **Team:** Xplore
 * **Nodal Center:** Shillong, Meghalaya
