@@ -1,4 +1,6 @@
 # Infravision
+<img width="1905" height="967" alt="image" src="https://github.com/user-attachments/assets/2580c648-7fc4-4796-a9fe-ad6635df7d4e" />
+
 # AI-Powered DPR Quality Assessment & Risk Prediction System
 
 ## 🚀 Overview
